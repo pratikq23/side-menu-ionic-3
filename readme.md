@@ -21,3 +21,5 @@ The project is started with the regular ionic commands.
 The template was created by and is maintained by **[Pratik Gupta](https://github.com/pratikq23)**
 
 "# side-menu-ionic-3" 
+
+Please do contridy=ute
