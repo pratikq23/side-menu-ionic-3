@@ -23,3 +23,4 @@ The template was created by and is maintained by **[Pratik Gupta](https://github
 "# side-menu-ionic-3" 
 
 Please do contridy=ute
+Trial
